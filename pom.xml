@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.optimagrowth</groupId>
-	<artifactId>ms-parent</artifactId>
+	<artifactId>ostock-ms-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Microservice Parent</name>
+	<name>ostock-ms-parent</name>
 	<description>Microservice Parent</description>
 	<properties>
 		<orm.version>0.0.1-SNAPSHOT</orm.version>
